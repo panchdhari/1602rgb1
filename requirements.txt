@@ -1,0 +1,8 @@
+luma.core<=1.13.0
+luma.oled
+moment
+python-mpd2
+pyLMS
+redis
+pyOWM
+socketIO-client
