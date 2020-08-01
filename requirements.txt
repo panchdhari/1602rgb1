@@ -2,6 +2,5 @@ moment
 python-mpd2
 pyLMS
 redis
-pyOWM
 socketIO-client
 wiringpi
